@@ -4,6 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Cloud and Data Architect
---->
+Cloud and Data Architect with expertise in SQL and No-SQL databases on premises and cloud
